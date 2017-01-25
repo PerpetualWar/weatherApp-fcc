@@ -1,0 +1,61 @@
+body {
+	background-color: #ffffff;
+	color: #000000;
+	font-family: "Open Sans", Verdana, Tahoma, sans-serif;
+	padding-top: 40px;
+}
+
+.container {
+	width: 360px;
+}
+
+.well {
+	background-color: #ffffff;
+	text-shadow: 6px 6px 6px #aaa;
+	box-shadow: 4px 4px 15px #aaa;
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:active:hover,
+.btn-primary.active {
+	background-color: #fff;
+	border-color: #383838;
+	width: 50%;
+	color: #000000;
+	font-size: 150%;
+}
+
+#weather {
+	font-size: 400%;
+}
+
+#module {
+	font-size: 170%;
+	text-shadow: 6px 6px 3px #aaa;
+}
+
+.icon {
+	font-size: 400%;
+}
+
+a,
+a:hover,
+a:visited {
+	color: #000;
+	text-decoration: none;
+}
+
+h1 {
+	text-shadow: 6px 6px 6px #aaa;
+	font-size: 50px;
+}
+
+#altInfo {
+	font-size: 150%;
+	padding-top: 12px;
+	text-shadow: 6px 6px 3px #aaa;
+}
